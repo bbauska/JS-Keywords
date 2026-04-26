@@ -2,7 +2,7 @@
 JavaScript Keywords. From Variables to Debugging Tools.
 
   - Variable: A container used to store data values.
-  - Function: A reusable block of code that performs a specific task.
+  - <h2>Function</h2>: A reusable block of code that performs a specific task.
   The basic syntax for defining a function is as follows:
 ```
 function functionName() {
@@ -34,6 +34,8 @@ Additionally, functions can return values using the return
 keyword.
 Let's consider an example of a function that calculates the
 area of a rectangle based on its width and height:
+
+
   - Array: A data structure that stores multiple values in a single variable.
   - Object: A collection of key-value pairs used to represent real-world entities.
   - String: A sequence of characters enclosed in quotes, used to represent text.
