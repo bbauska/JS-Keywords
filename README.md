@@ -3,6 +3,36 @@ JavaScript Keywords. From Variables to Debugging Tools.
 
   - Variable: A container used to store data values.
   - Function: A reusable block of code that performs a specific task.
+  The basic syntax for defining a function is as follows:
+```
+function functionName() {
+  // Code to be executed
+}
+```
+Let's consider an example of a simple function that greets the user:
+```
+function greet() {
+  console.log("Hello, welcome!");
+}
+```
+To execute or call a function, we simply write the function
+name followed by parentheses.
+For example:
+```
+greet(); // Output: Hello, welcome!
+```
+In this example, calling the greet() function executes the
+code inside the function's block, which displays the greeting
+message.
+PASSING ARGUMENTS AND RETURNING VALUES
+Functions can also accept parameters or arguments, which
+are values passed into the function to perform specific tasks.
+Parameters are defined inside the parentheses of the
+function declaration. We can use these parameters within
+the function to manipulate data or perform calculations.
+Additionally, functions can return values using the return
+keyword.
+
   - Array: A data structure that stores multiple values in a single variable.
   - Object: A collection of key-value pairs used to represent real-world entities.
   - String: A sequence of characters enclosed in quotes, used to represent text.
