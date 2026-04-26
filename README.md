@@ -3,7 +3,7 @@ JavaScript Keywords. From Variables to Debugging Tools.
 
   - Variable: A container used to store data values.
   - Function: A reusable block of code that performs a specific task.
-<h6>DEFINING AND CALLING FUNCTIONS</h6>
+<h4>DEFINING AND CALLING FUNCTIONS</h4>
 A function in JavaScript is defined using the function
 keyword, followed by the function name, a pair of
 parentheses, and a block of code enclosed in curly braces
@@ -29,7 +29,7 @@ greet(); // Output: Hello, welcome!
 In this example, calling the greet() function executes the
 code inside the function's block, which displays the greeting
 message.
-## PASSING ARGUMENTS AND RETURNING VALUES
+<h4>PASSING ARGUMENTS AND RETURNING VALUES</h4>
 Functions can also accept parameters or arguments, which
 are values passed into the function to perform specific tasks. 
 Parameters are defined inside the parentheses of the
