@@ -2,8 +2,13 @@
 JavaScript Keywords. From Variables to Debugging Tools.
 
   - Variable: A container used to store data values.
-  - <h2>Function</h2>: A reusable block of code that performs a specific task.
-  The basic syntax for defining a function is as follows:
+  - Function: A reusable block of code that performs a specific task.
+<h6>DEFINING AND CALLING FUNCTIONS</h6>
+A function in JavaScript is defined using the function
+keyword, followed by the function name, a pair of
+parentheses, and a block of code enclosed in curly braces
+The basic syntax for defining a function is as follows:
+
 ```
 function functionName() {
   // Code to be executed
