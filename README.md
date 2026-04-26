@@ -24,15 +24,16 @@ greet(); // Output: Hello, welcome!
 In this example, calling the greet() function executes the
 code inside the function's block, which displays the greeting
 message.
-PASSING ARGUMENTS AND RETURNING VALUES
+## PASSING ARGUMENTS AND RETURNING VALUES
 Functions can also accept parameters or arguments, which
-are values passed into the function to perform specific tasks.
+are values passed into the function to perform specific tasks. 
 Parameters are defined inside the parentheses of the
 function declaration. We can use these parameters within
 the function to manipulate data or perform calculations.
 Additionally, functions can return values using the return
 keyword.
-
+Let's consider an example of a function that calculates the
+area of a rectangle based on its width and height:
   - Array: A data structure that stores multiple values in a single variable.
   - Object: A collection of key-value pairs used to represent real-world entities.
   - String: A sequence of characters enclosed in quotes, used to represent text.
