@@ -47,49 +47,24 @@ JavaScript Keywords. From Variables to Debugging Tools.
     compatible with older browsers and environments.
   - Functional Programming: A programming paradigm that emphasizes the use of pure functions and avoids changing state or mutable data.
   - Recursion: A technique in which a function calls itself to solve a problem by breaking it down into smaller subproblems.
-Regular Expression: A sequence of characters that
-forms a search pattern, used for pattern matching
-and string manipulation.
-Web APIs: APIs provided by the browser or other
-web services that allow developers to interact with
-various aspects of web technologies, such as
-accessing geolocation, manipulating audio and
-video, or working with local storage.
-Data Manipulation: Techniques for manipulating
-and transforming data, such as filtering, sorting,
-and mapping arrays.
-Fetch API: A modern JavaScript API for making
-HTTP requests and retrieving data from servers,
-replacing older techniques like XMLHttpRequest.
-Promise Chaining: The practice of chaining multiple
-promises together to create a sequential flow of
-asynchronous operations.
-Data Validation: The process of ensuring that input
-data
-meets
-specific
-criteria
-or
-constraints,
-preventing errors or unexpected behavior.
-Error Logging: The practice of recording and
-tracking errors that occur in a web application for
-debugging and monitoring purposes.
-Progressive Web Apps (PWAs): Web applications
-that leverage modern web technologies to provide a
-native-like experience, including offline capabilities
-and push notifications.
-Browser Compatibility: The process of ensuring that
-a web application works correctly and consistently
-across different web browsers and versions.
-Performance
-Optimization:
-Techniques
-for
-improving the speed and efficiency of a web
-application, such as minimizing network requests,
-optimizing code execution, and caching.
-Debugging Tools: Tools and techniques used to
-identify and fix errors and bugs in JavaScript code,
-including browser developer tools, linters, and code
-analyzers
+  - Regular Expression: A sequence of characters that forms a search pattern, used for pattern matching and string
+    manipulation.
+  - Web APIs: APIs provided by the browser or other web services that allow developers to interact with various aspects of
+    web technologies, such as accessing geolocation, manipulating audio and video, or working with local storage.
+  - Data Manipulation: Techniques for manipulating and transforming data, such as filtering, sorting, and mapping arrays.
+  - Fetch API: A modern JavaScript API for making HTTP requests and retrieving data from servers, replacing older techniques
+    like XMLHttpRequest.
+  - Promise Chaining: The practice of chaining multiple promises together to create a sequential flow of asynchronous
+    operations.
+  - Data Validation: The process of ensuring that input data meets specific criteria or constraints, preventing errors or
+    unexpected behavior.
+  - Error Logging: The practice of recording and tracking errors that occur in a web application for debugging and
+    monitoring purposes.
+  - Progressive Web Apps (PWAs): Web applications that leverage modern web technologies to provide a native-like experience,
+    including offline capabilities and push notifications.
+  - Browser Compatibility: The process of ensuring that a web application works correctly and consistently across different
+    web browsers and versions.
+  - Performance Optimization: Techniques for improving the speed and efficiency of a web application, such as minimizing
+    network requests, optimizing code execution, and caching.
+  - Debugging Tools: Tools and techniques used to identify and fix errors and bugs in JavaScript code, including browser
+    developer tools, linters, and code analyzers.
