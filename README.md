@@ -9,23 +9,23 @@ keyword, followed by the function name, a pair of
 parentheses, and a block of code enclosed in curly braces
 The basic syntax for defining a function is as follows:
 
-```
+<pre>
 function functionName() {
   // Code to be executed
 }
-```
+</pre>
 Let's consider an example of a simple function that greets the user:
-```
+<pre>
 function greet() {
   console.log("Hello, welcome!");
 }
-```
+</pre>
 To execute or call a function, we simply write the function
 name followed by parentheses.
 For example:
-```
+<pre>
 greet(); // Output: Hello, welcome!
-```
+</pre>
 In this example, calling the greet() function executes the
 code inside the function's block, which displays the greeting
 message.
@@ -39,16 +39,16 @@ Additionally, functions can return values using the return
 keyword.
 Let's consider an example of a function that calculates the
 area of a rectangle based on its width and height:
-```
+<pre>
 function calculateArea(width, height) {
   let area = width * height;
   return area;
-```
+</pre>
 To call this function and retrieve the calculated area, we assign the returned value to a variable:
-```
+<pre>
 let rectangleArea = calculateArea(5, 10);
 console.log(rectangleArea); // Output: 50.
-```
+</pre>
   - Array: A data structure that stores multiple values in a single variable.
 <h5>CREATING AND MANIPULATING ARRAYS</h5>
 <p>Arrays are a fundamental part of JavaScript and are used to store multiple values in a single variable. 
