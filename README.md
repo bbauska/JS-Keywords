@@ -39,9 +39,26 @@ Additionally, functions can return values using the return
 keyword.
 Let's consider an example of a function that calculates the
 area of a rectangle based on its width and height:
-
-
+```
+function calculateArea(width, height) {
+  let area = width * height;
+  return area;
+```
+To call this function and retrieve the calculated area, we assign the returned value to a variable:
+```
+let rectangleArea = calculateArea(5, 10);
+console.log(rectangleArea); // Output: 50.
+```
   - Array: A data structure that stores multiple values in a single variable.
+<h5>CREATING AND MANIPULATING ARRAYS</h5>
+<p>Arrays are a fundamental part of JavaScript and are used to store multiple values in a single variable. 
+We can create an array by enclosing a comma-separated list of values within square brackets.</p>
+<h6>For example:</h6>
+<pre>let fruits = ["apple","banana","orange"]</pre>
+<p>In this example, we created an array called fruits that contains three elements: "apple", "banana", and 
+"orange".</p>
+<p>Arrays can store values of different data types, including numbers, strings, booleans, and even other arrays or objects.</p>
+
   - Object: A collection of key-value pairs used to represent real-world entities.
   - String: A sequence of characters enclosed in quotes, used to represent text.
   - Number: A data type used to represent numeric values.
