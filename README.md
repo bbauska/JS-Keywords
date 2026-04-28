@@ -43,6 +43,7 @@ area of a rectangle based on its width and height:
 function calculateArea(width, height) {
   let area = width * height;
   return area;
+}
 </pre>
 To call this function and retrieve the calculated area, we assign the returned value to a variable:
 <pre>
